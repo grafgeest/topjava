@@ -33,6 +33,6 @@
           p:defaultEncoding="UTF-8">
         <property name="basenames" value="file:///home/grafgeest/proj/topjava/config/messages/app"/>
         <!--<property name="basenames" value="file:///#{systemEnvironment['TOPJAVA_ROOT']}/config/messages/app"/>-->
-        <!--export TOPJAVA_ROOT=/home/grafgeest/proj/topjava-->
+        <!--export TOPJAVA_ROOT="/home/grafgeest/proj/topjava"-->
     </bean>
 </beans>
